@@ -1,0 +1,1 @@
+cl /EHsc /wd4477 /wd4172 main.cpp
